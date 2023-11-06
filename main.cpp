@@ -3,7 +3,7 @@
 using namespace std;
 const int N=10005;
 int n,now[N],to[N],num=0;
-string oper_to[3]={"push off","unknow","push on"};
+string oper_to[3]={"Push off","Unknow","Push on"};
 void pause(string i="push any key to continue...")
 {
 	/*cout<<i;
