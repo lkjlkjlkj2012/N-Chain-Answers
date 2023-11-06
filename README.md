@@ -4,10 +4,9 @@
 ## In Linux or Mac
 ```g++ main.cpp -o main```
 ## In Windows
-Install Mingw or Mingw-w64
-```g++ main.cpp -o main```
+Install Mingw or Mingw-w64,and do ```g++ main.cpp -o main```
 # Run
-Run main or main.exe
+Run main or main.exe.
 # How to use
 Input the number of chain,
 input start,
